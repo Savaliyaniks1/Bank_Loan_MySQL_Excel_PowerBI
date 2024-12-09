@@ -7,7 +7,8 @@
 
 # PowerBi Summary Dashboard
 
-![PowerBi Details Summary Dashboard](https://github.com/user-attachments/assets/475d7414-8422-46cf-b11c-aa1fc6eb4f19)
+![PowerBi Summary Dashboard ](https://github.com/user-attachments/assets/6a355765-f6e6-454d-9ff5-ba43acd3eb3e)
+
 
 
 # PowerBi Overview Dashboard
